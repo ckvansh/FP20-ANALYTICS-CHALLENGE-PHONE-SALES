@@ -1,0 +1,57 @@
+The Brief
+IMPORTANT
+
+This role is for a Sales analyst to develop our client's Mobile phone sales analysis report. The client has provided us with relevant mobile phone sales data stored in an Excel file. This is an Exploratory Data Analysis (EDA), so your goal is to explore the business patterns in the data and summarize your discoveries into meaningful sales insights.
+
+There are some main requests from the client for this report!
+
+Please answer a few, not all, of the questions below:
+
+1. From 2018-2021, which country and distributor had the best sales performance?
+
+2. What was the seasonal sales trend in each country and distributor?
+
+3. What was the seasonal inventory cost trend in each country and distributor?
+
+4. What was the seasonal net profit trend in each country and distributor?
+
+5. Each year, which brand is the best seller in each country and distributor?
+
+6. Who is each country's most successful sales rep and distributor?
+
+7. Which country had the lowest/highest inventory cost from 2018-2021?
+
+8. Which country had the lowest/highest net profit from 2018-2021?
+
+9. Can we predict the 2023 sales trend based on historical data?
+
+10. Can we make any recommendations to optimize net sales based on some best sales performance countries?
+
+*Reports are limited to 2 pages. Feel free to use all the techniques– tooltips, drill-throughs, page navigations, etc.
+
+
+The Resources
+
+There is 1 Excel dataset.
+
+1. An Excel spreadsheet.
+
+2. PDF with the Intro and Brief.
+
+3. PDF with the Intro and Brief in the Spanish Language.
+
+Submission of entries
+
+IMPORTANT
+
+Please enter the two pages of your report as screenshots in a LinkedIn post with the following wording.
+
+“I am participating in FP20 Analytics Challenge 5” Please see screenshots of my report pages in PDF format if possible.
+
+Enter a small summary of your report.
+
+Use the hashtag #FP20Analytics and #FP20AnalyticsMobileSales and tag @Federico Pastor.
+
+Please post the same in the Community Group on LinkedIn.
+
+*If you want to post your report in novyPro – only PBI Files. Please see the link to a video of how to do it.
